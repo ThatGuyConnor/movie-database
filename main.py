@@ -3,7 +3,6 @@ from display_manager import DisplayManager
 from filters import *
 import pandas as pd
 
-'test comment to see if commit works'
 
 class MovieApp:
     def __init__(self, excel_file):
